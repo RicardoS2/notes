@@ -1,0 +1,28 @@
+# =========================
+# Obsidian (estado local)
+# =========================
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/cache
+.obsidian/hotkeys.json
+.obsidian/graph.json
+.obsidian/appearance.json
+
+# =========================
+# Plugins locais (estado)
+# =========================
+.obsidian/plugins/**/data.json
+.obsidian/plugins/**/cache
+
+# =========================
+# Sistema
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Temporários
+# =========================
+*.tmp
+*.log
+*.bak
