@@ -7,9 +7,8 @@ on:
 jobs:
   trigger:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Notify Quartz repo
+      - name: Trigger Quartz repository_dispatch
         run: |
           curl -X POST \
             -H "Authorization: Bearer ${{ secrets.QUARTZ_TRIGGER_TOKEN }}" \
