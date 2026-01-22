@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Guias/Index.md",
                 "mode": "source",
                 "source": false
               },
@@ -198,10 +198,10 @@
   },
   "active": "1123ce176891b0a9",
   "lastOpenFiles": [
+    "Index.md",
     "Guias/Index.md",
     "Guias/Tutorial de participação.md",
     "Guias/Guia.md",
-    "Index.md",
     "Guias",
     "Arquivos lidos e usados/teste.md",
     "index.md",
