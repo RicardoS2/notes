@@ -5,6 +5,7 @@ tags: [obsidian, markdown, tutorial, produtividade, plugins, templates]
 
 
 ---
+
 # 🏆 Guia Definitivo do Obsidian
 
 Este documento é um **tutorial completo e interativo de Obsidian**, mostrando tudo que você precisa para criar, organizar e automatizar suas notas.
