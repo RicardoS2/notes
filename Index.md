@@ -1,5 +1,5 @@
 ---
-title: Pesquisa de tecnologias de concreto aplicada em nicho acústico
+title: Home
 tags:
   - colaboradores
   - pesquisa
