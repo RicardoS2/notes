@@ -11,14 +11,12 @@
             "id": "c23dae165183cf7d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
+                "file": "Arquivos lidos e usados/1-s2.0-S0003682X23001780-main.pdf"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-file-text",
+              "title": "1-s2.0-S0003682X23001780-main"
             }
           }
         ]
@@ -181,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c23dae165183cf7d",
+  "active": "ffa7d35819d8c13a",
   "lastOpenFiles": [
     "Arquivos lidos e usados/teste.md",
     "index.md",
