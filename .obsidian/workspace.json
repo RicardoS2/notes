@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guias/Guia.md",
+                "file": "Tutorial de participam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guia"
+              "title": "Tutorial de participam"
             }
           }
         ]
@@ -183,9 +183,9 @@
   },
   "active": "ffa7d35819d8c13a",
   "lastOpenFiles": [
-    "Guias/Tutorial de participam.md",
-    "Guias/Guia.md",
     "Index.md",
+    "Guia.md",
+    "Tutorial de participam.md",
     "Guias",
     "Arquivos lidos e usados/teste.md",
     "index.md",
