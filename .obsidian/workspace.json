@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Guias/Index.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Guias/Tutorial de participação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Tutorial de participação"
             }
           }
         ],
@@ -196,12 +196,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1123ce176891b0a9",
+  "active": "ffa7d35819d8c13a",
   "lastOpenFiles": [
     "Guias/Guia.md",
     "Guias/Index.md",
-    "Index.md",
     "Guias/Tutorial de participação.md",
+    "Guias/Index.md",
     "Guias",
     "Arquivos lidos e usados/teste.md",
     "index.md",
