@@ -11,7 +11,6 @@ Este documento é um **tutorial completo e interativo de Obsidian**, mostrando t
 
 > [!TIP] Dica Inicial
 > Este arquivo pode ser aberto no Obsidian ou Quartz diretamente. Teste cada recurso para entender como funciona.
-
 ## 1 Formatação Básica
 - **Negrito:** `**texto**` → **texto**  
 - *Itálico:* `*texto*` → *texto*  

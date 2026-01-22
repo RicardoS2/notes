@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guias/Tutorial de participam.md",
+                "file": "Guias/Guia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tutorial de participam"
+              "title": "Guia"
             }
           }
         ]
@@ -181,10 +181,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c23dae165183cf7d",
+  "active": "ffa7d35819d8c13a",
   "lastOpenFiles": [
-    "Guias/Guia.md",
     "Guias/Tutorial de participam.md",
+    "Guias/Guia.md",
     "Index.md",
     "Guias",
     "Arquivos lidos e usados/teste.md",
