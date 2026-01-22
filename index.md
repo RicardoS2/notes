@@ -1,13 +1,10 @@
-teste
-olá olá
-adadadadadad
-lero lero lero leroleroodsdsd
-wririd
 ---
-lelrodada 
-lerolk
-leroff
-leroooo
-jjjj
-testetetetet
-# oia sofia viu ? dada dadadad lero lero 
+title: Pesquisa de tecnologias de concreto aplicada em nicho acústico
+tags:
+  - colaboradores
+  - pesquisa
+---
+## Essa pesquisa está sendo realizada com a contribuição do Doutor Leopoldo e sua doutorando
+
+Como participar ->[[Tutorial de participam]]
+Guia sobre o app ->[[Guia]]

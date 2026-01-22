@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arquivos lidos e usados/teste.md",
+                "file": "Guias/Tutorial de participam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "teste"
+              "title": "Tutorial de participam"
             }
           }
         ]
@@ -183,10 +183,14 @@
   },
   "active": "c23dae165183cf7d",
   "lastOpenFiles": [
-    "assets/1-s2.0-S0003682X23001780-main.pdf",
-    "assets",
+    "Guias/Guia.md",
+    "Guias/Tutorial de participam.md",
+    "Index.md",
+    "Guias",
     "Arquivos lidos e usados/teste.md",
     "index.md",
+    "assets/1-s2.0-S0003682X23001780-main.pdf",
+    "assets",
     "Arquivos lidos e usados"
   ]
 }
