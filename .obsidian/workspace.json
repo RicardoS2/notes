@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Guias/Guia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Guia"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Guias/Tutorial de participação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Tutorial de participação"
             }
           },
           {
@@ -213,12 +213,12 @@
   "active": "a51452a35183329e",
   "lastOpenFiles": [
     "Guias/Tutorial de participação.md",
-    "Guias/Guia.md",
     "index.md",
+    "index.md",
+    "Guias/Guia.md",
     "conflict-files-obsidian-git.md",
     "Guias",
     "Arquivos lidos e usados/teste.md",
-    "index.md",
     "assets/1-s2.0-S0003682X23001780-main.pdf",
     "assets",
     "Arquivos lidos e usados"
