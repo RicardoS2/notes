@@ -22,6 +22,7 @@ git clone https://github.com/RicardoS2/notes
 
 Isso cria uma cópia local do Vault no seu computador.
 
+
 ### 1.2 Abrir no Obsidian
 
 - Abra o Obsidian.
