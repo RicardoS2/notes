@@ -5,6 +5,7 @@ tags: [colaboradores, guia, templates, obsidian, git]
 
 
 
+
 # Guia de Colaboração para a pesquisa
 (lembre-se de pedir o link de colaborador no git hub ao rick)
 Este documento ensina como **participar, criar notas e contribuir** para o projeto usando **Obsidian +  Git**, com sincronização automática e padronização via templates.
