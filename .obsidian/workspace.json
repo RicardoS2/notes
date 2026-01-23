@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Guias/Tutorial de participação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Tutorial de participação"
             }
           }
         ],
@@ -212,9 +212,8 @@
   },
   "active": "a51452a35183329e",
   "lastOpenFiles": [
+    "index.md",
     "Guias/Tutorial de participação.md",
-    "index.md",
-    "index.md",
     "Guias/Guia.md",
     "conflict-files-obsidian-git.md",
     "Guias",
