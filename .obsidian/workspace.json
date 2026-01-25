@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudo da norma abnt/Index.md",
+                "file": "Guias-e-manuais/Index.md",
                 "mode": "source",
                 "source": false
               },
@@ -86,8 +86,7 @@
               "title": "ProAcustica-ManualNormaDesempenho-Responsivo-Mar2022-2"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,18 +193,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5efa00f91c817ada",
+  "active": "ffa7d35819d8c13a",
   "lastOpenFiles": [
-    "ProAcustica-ManualNormaDesempenho-Responsivo-Mar2022-2.pdf",
-    "Estudo da norma abnt/Index.md",
-    "Pasted image 20260125135308.png",
     "Introdução-Manual.md",
+    "Pasted image 20260125135308.png",
+    "Guias-e-manuais/Index.md",
+    "ProAcustica-ManualNormaDesempenho-Responsivo-Mar2022-2.pdf",
     "index.md",
-    "Guias/Tutorial de participação.md",
+    "Guias-e-manuais/Tutorial de participação.md",
     "Estudo da norma abnt",
-    "Guias/Guia.md",
+    "Guias-e-manuais/Guia.md",
     "conflict-files-obsidian-git.md",
-    "Guias",
+    "Guias-e-manuais",
     "Arquivos lidos e usados/teste.md",
     "assets/1-s2.0-S0003682X23001780-main.pdf",
     "assets",
