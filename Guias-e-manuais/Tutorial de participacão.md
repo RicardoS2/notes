@@ -1,6 +1,6 @@
 # Tutorial de Participação
 
-> **Nota prévia:** Solicite ao **Rick** o convite de acesso ao repositório no GitHub antes de iniciar.
+> **Nota prévia:** Solicite ao **Rick** o convite de acesso ao repositório no GitHub antes de iniciar(caso o necessário).
 
 Este tutorial explica como participar da pesquisa, criar notas e contribuir para o projeto utilizando **Obsidian + Git**. O objetivo é manter as notas organizadas, padronizar os registros por meio de *templates* e sincronizar as alterações com o repositório compartilhado.
 

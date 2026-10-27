@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Registro_ASTM_D5628-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Registro_ASTM_D5628-24"
             }
           }
         ]
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 257.5
   },
   "right": {
     "id": "17ccd058a347b104",
@@ -197,12 +197,16 @@
   },
   "active": "5efa00f91c817ada",
   "lastOpenFiles": [
-    "teste.md",
-    "Guias-e-manuais/Tutorial de participacão.md",
-    "index.md",
-    "Objetivos da Pesquisa.md",
     "templates/Registro de Norma.md",
+    "Registro_ASTM_D5628-24.md",
+    "teste.md",
+    "assets",
     "templates/Log de Pesquisa.md",
+    "Ensaio_Impacto_Charpy 1.md",
+    "index.md",
+    "Guias-e-manuais/Tutorial de participacão.md",
+    "Objetivos da Pesquisa.md",
+    "Ensaio_Impacto_Charpy.md",
     "templates/Resumo de Artigo.md",
     "templates/Log de Experimento.md",
     "templates",
