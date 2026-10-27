@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "teste.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "teste"
+              "title": "index"
             }
           }
         ]
@@ -197,15 +197,15 @@
   },
   "active": "5efa00f91c817ada",
   "lastOpenFiles": [
-    "Objetivos da Pesquisa.md",
+    "Guias-e-manuais/Tutorial de participacão.md",
     "teste.md",
+    "Objetivos da Pesquisa.md",
     "templates/Registro de Norma.md",
     "templates/Log de Pesquisa.md",
     "templates/Resumo de Artigo.md",
     "templates/Log de Experimento.md",
     "index.md",
     "templates",
-    "Guias-e-manuais/Tutorial de participacão.md",
     "Guias-e-manuais/GUIA 2.md",
     "Guias-e-manuais/GUIA 1.md",
     "Pasted image 20260125135308.png",
