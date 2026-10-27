@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "teste.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "teste"
             }
           }
         ]
@@ -197,12 +197,21 @@
   },
   "active": "5efa00f91c817ada",
   "lastOpenFiles": [
-    "Guias-e-manuais/Tutorial de participação.md",
+    "Objetivos da Pesquisa.md",
+    "teste.md",
+    "templates/Registro de Norma.md",
+    "templates/Log de Pesquisa.md",
+    "templates/Resumo de Artigo.md",
+    "templates/Log de Experimento.md",
     "index.md",
-    "Guias-e-manuais/Guia.md",
+    "templates",
+    "Guias-e-manuais/Tutorial de participacão.md",
+    "Guias-e-manuais/GUIA 2.md",
+    "Guias-e-manuais/GUIA 1.md",
+    "Pasted image 20260125135308.png",
+    "Guias-e-manuais/Tutorial de participação.md",
     "Guias-e-manuais/Index.md",
     "ProAcustica-ManualNormaDesempenho-Responsivo-Mar2022-2.pdf",
-    "Pasted image 20260125135308.png",
     "Introdução-Manual.md",
     "Estudo da norma abnt",
     "conflict-files-obsidian-git.md",
